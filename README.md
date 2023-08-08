@@ -7,3 +7,4 @@ The Secure Programs Capstone project was an intensive cybersecurity program desi
 
 The Capstone project was structured into six main sprints, designed to encapsulate the essence of building a robust cybersecurity infrastructure from the ground up.
 
+[Sprint One: Cybersecurity Frameworks](weblinkhere.com): In the first sprint, our focus was understanding the essentiality of cybersecurity frameworks – structured sets of policies, procedures, and standards that anchor the security of digital assets. These frameworks are paramount in safeguarding sensitive data, providing organizations a robust blueprint to minimize cyber threats. Dive deeper to explore our exploration process, the importance of frameworks like NIST 800-171, and their role in fortifying secure programs.
