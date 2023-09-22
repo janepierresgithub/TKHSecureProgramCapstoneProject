@@ -8,3 +8,6 @@ The Secure Programs Capstone project was an intensive cybersecurity program desi
 The Capstone project was structured into six main sprints, designed to encapsulate the essence of building a robust cybersecurity infrastructure from the ground up.
 
 [Sprint One: Cybersecurity Frameworks](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint1.md): In the first sprint, our focus was understanding the importance of cybersecurity frameworks – structured sets of policies, procedures, and standards that anchor the security of digital assets. These frameworks are paramount in safeguarding sensitive data, providing organizations a robust blueprint to minimize cyber threats. Click the link to explore our considerations in selecting the cybersecurity frameworks, the importance of frameworks like NIST 800-171, and their role in fortifying secure programs.
+
+[Sprint Two: Threat & Vulnerability Assessments](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint2.md):
+
