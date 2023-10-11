@@ -10,18 +10,18 @@ Our capstone journey spanned six meticulously structured sprints, each aiming to
 
 This repository is more than just a digital archive. Each link, document, and artifact below is a reflection of the dedication and passion that went into its creation. I had a direct hand in various facets of this project—whether it was conceptualizing, editing, designing, implementing, or facilitating. Explore and delve into our six sprints to witness the culmination of our year-long technological odyssey.
 
-# [Sprint I: Cybersecurity Frameworks](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint1.md): 
+# [Sprint I: Cybersecurity Frameworks](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint1.md) 
 In the first sprint, our focus was understanding the importance of cybersecurity frameworks – structured sets of policies, procedures, and standards that anchor the security of digital assets. These frameworks are paramount in safeguarding sensitive data, providing organizations a robust blueprint to minimize cyber threats. Click the link to explore our considerations in selecting the cybersecurity frameworks, the importance of frameworks like NIST 800-171, and their role in fortifying secure programs.
 
-[Sprint II: Threat & Vulnerability Assessments](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint2.md): 
+# [Sprint II: Threat & Vulnerability Assessments](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint2.md): 
 
-[Sprint III: Penetration Testing](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint3.md)
+# [Sprint III: Penetration Testing](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint3.md)
 
-[Sprint IV: Legal, Regulatory and Compliance Implementation on Security Controls](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint4.md)
+# [Sprint IV: Legal, Regulatory and Compliance Implementation on Security Controls](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint4.md)
 
-[Sprint V: Development of Policies, Procedures, and Standards](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint5.md)
+# [Sprint V: Development of Policies, Procedures, and Standards](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint5.md)
 
-[Final Sprint: Incident Management and Disaster Recovery Plan](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/finalsprint)
+# [Final Sprint: Incident Management and Disaster Recovery Plan](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/finalsprint)
 
 
 
