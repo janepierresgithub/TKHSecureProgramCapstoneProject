@@ -1,6 +1,7 @@
 # Secure Program Capstone Project
 
 ![Secure Program Capstone Picture](https://github.com/jjperipheral/TKHSecureProgramCapstoneProject/blob/main/secprogramlogo.jpeg)
+
 Presented here is the culmination of the Secure Programs Capstone project, showcasing an intensive cybersecurity program design in collaboration with The Knowledge House, the non-profit organization who offers the Innovation Fellowship of which I was a part of for their 2022-2023 Cohort. Admission to The Knowledge House's Innovation Fellowship in the Cyber Security and Networking program, marked a pivotal moment for the members of the Secure Program Capstone team. Over the span of an enlightening year, this fellowship enriched the team with profound insights, experiences, and mentorship, leading to this project — a chance to both give back and display the acquired expertise.
 
 [The Knowledge House](https://www.theknowledgehouse.org) stands as a beacon of empowerment, with a resolute mission to uplift people of color and immigrants across regions including New York City, Northern New Jersey, Atlanta, and Los Angeles. Their commitment to bridging the tech-skills gap through comprehensive courses has been instrumental in reshaping the technological landscape and ensuring diverse voices are not only heard but celebrated.
