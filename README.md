@@ -25,7 +25,7 @@ Addressing the legal landscape, this sprint dealt with understanding the legal i
 # [Sprint V: Development of Policies, Procedures, and Standards](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint5.md)
 Moving towards operational excellence, this sprint was geared towards the creation of robust cybersecurity policies and procedures. This framework ensured a consistent and systematic approach to handling security threats, vulnerabilities, and incidents.
 
-# [Final Sprint: Incident Management and Disaster Recovery Plan](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/finalsprint.md)
+# [Sprint VI: Incident Management and Disaster Recovery Plan](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/finalsprint.md)
 Concluding the project, this sprint emphasized managing cybersecurity incidents effectively. It also focused on establishing a disaster recovery plan to ensure business continuity in case of severe breaches. The culmination of the capstone was the presentation of a detailed security report, complete with documentation that encapsulated all project findings and recommendations.
 
 
