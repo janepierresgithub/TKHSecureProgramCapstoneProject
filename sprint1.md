@@ -5,7 +5,7 @@ The first sprint of the Secure Programs Capstone project, titled "Cybersecurity 
 
 This sprint underscores the importance of a well-conceived cybersecurity framework in today's digital age, where threats are ever-evolving. The artifacts in this repository not only reflect the team's collective effort and deep understanding of cybersecurity essentials but also demonstrate the careful consideration and expertise applied in selecting and advocating for the most suitable framework for our client.
 
-**This Repository Includes:**
+**This Markdown Page Includes:**
 
 [Cybersecurity Frameworks Summary 📃](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/secure_programs_sprint_summary.pdf) The summary delves into the importance of cybersecurity frameworks and their role in ensuring the security of sensitive information, especially for non-profit organizations. It outlines the reasons for selecting the NIST 800-171 framework, recognized for its adaptability, scalability, and comprehensive approach to managing cybersecurity risk.
 
