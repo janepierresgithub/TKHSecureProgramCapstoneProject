@@ -1,5 +1,7 @@
 # <p align="center"> Sprint Four - Legal, Regulatory & Compliance <p align="center">
-
+<p align="center">
+  <img src="https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/compliancepic.jpeg" alt="Regulations">
+</p>
 Sprint four of the Secure Programs Capstone project, "Legal, Regulatory, and Compliance," marks a critical transition from technical cybersecurity measures to understanding and implementing the legal and regulatory frameworks that underpin a robust cybersecurity strategy. This phase focuses on ensuring that The Knowledge House's cybersecurity practices align with laws like the Gramm-Leach-Bliley Act (GLBA), New York's SHIELD Act, and industry standards like the PCI DSS. These regulations are vital for non-profits, as they safeguard sensitive data and maintain the trust of donors, partners, and beneficiaries.
 
 Within the repository, the primary artifacts from this sprint are the comprehensive summary of the sprint and a segment of the PowerPoint presentation delivered to stakeholders. 
