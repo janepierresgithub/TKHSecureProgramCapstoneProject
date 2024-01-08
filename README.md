@@ -1,6 +1,7 @@
 # <p align="center">Secure Program Capstone Project<p align="center">
-
-![Secure Program Capstone Picture](https://github.com/jjperipheral/TKHSecureProgramCapstoneProject/blob/main/secprogramlogo.jpeg) </p>
+<p align="center">
+  <img src="https://github.com/jjperipheral/TKHSecureProgramCapstoneProject/blob/main/secprogramlogo.jpeg" alt="Secure Programs">
+</p>
 
 Presented here is the culmination of the Secure Programs Capstone project, showcasing an intensive cybersecurity program design in collaboration with The Knowledge House, the non-profit organization behind the Innovation Fellowship that I graduated from as the Valedictorian for the Cybersecurity and Networking 2023 Cohort. Admission to The Knowledge House's Innovation Fellowship in the Cyber Security and Networking program, marked a pivotal moment for the members of the Secure Program Capstone team. Over the span of an enlightening year, this fellowship enriched the team with profound insights, experiences, and mentorship, leading to this project — a chance to both give back and display the acquired learning.
 
@@ -17,7 +18,7 @@ A thorough examination of potential threats and vulnerabilities that could impac
 # <p align="center">[Sprint III: Penetration Testing](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint3.md)<p align="center">
 Going beyond theory, this sprint focused on practical, offensive security efforts. By simulating cyberattacks on organizational assets, participants gauged the efficacy of existing security measures and identified areas of improvement.
 
-# <p align="center">[Sprint IV: Legal, Regulatory and Compliance Implementation on Security Controls](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint4.md)<p align="center">
+# <p align="center">[Sprint IV: Legal, Regulatory & Compliance](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint4.md)<p align="center">
 Addressing the legal landscape, this sprint dealt with understanding the legal implications of cybersecurity efforts. Compliance with established regulations was prioritized. Furthermore, essential security controls were introduced to The Knowledge House's tech infrastructure to fortify it against potential cyber threats.
 
 # <p align="center">[Sprint V: Development of Policies, Procedures, and Standards](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint5.md)<p align="center">
