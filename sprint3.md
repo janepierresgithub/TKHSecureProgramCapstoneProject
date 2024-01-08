@@ -7,7 +7,7 @@ The second sprint of the Secure Programs Capstone project, "Penetration Testing,
 
 In this sprint, the team engaged in a thorough penetration testing process at The Knowledge House, utilizing a suite of tools including NMAP for network exploration, Wireshark for packet analysis, Metasploit Framework for assessing security vulnerabilities, and Burp Suite for web application security testing. These tools were instrumental in scanning the networks and website of The Knowledge House to pinpoint any potential vulnerabilities, especially focusing on server-side software and security headers, common points of exploitation in many systems.
 
-**This repository houses two critical artifacts from this sprint:**
+**This Markdown Page Includes:**
 
 [Penetration Testing Summary 📃](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprintthreesummary.pdf) 
 A comprehensive summary of the sprint in PDF format and a portion of the PowerPoint presentation delivered to stakeholders as part of the final Capstone project. The summary provides an in-depth look into the penetration testing process, outlining the types of tests conducted, the stages involved, and the specific tools used to identify and assess vulnerabilities. 
