@@ -7,6 +7,7 @@ Sprint four of the Secure Programs Capstone project, "Legal, Regulatory, and Com
 Within the repository, the primary artifacts from this sprint are the comprehensive summary of the sprint and a segment of the PowerPoint presentation delivered to stakeholders. 
 
 **This Markdown Page Includes:**
+
 [Legal, Regulatory & Compliance Summary 📃](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprinttwosummary.pdf) The summary delves into the various laws and regulations pertinent to cybersecurity, highlighting their implications for medium-sized non-profit organizations like The Knowledge House. It outlines the essential components of the PCI DSS and other critical standards, illustrating how adherence not only mitigates the risk of penalties and reputational damage but also reinforces trust and compliance.
 
 [Legal, Regulatory & Compliance PowerPoint Presentation 📽](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprintthreepresentation.pdf)The PowerPoint presentation portion gives a visual and narrative account of the legal, regulatory, and compliance landscape. It serves as an educational tool, informing stakeholders about the importance of legal compliance in cybersecurity and the specific actions The Knowledge House must undertake to align with these requirements. This includes developing a robust network security infrastructure, encrypting sensitive data, and ensuring ongoing monitoring and auditing to remain compliant.
