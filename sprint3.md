@@ -1,5 +1,7 @@
 # <p align="center"> Sprint Three - Penetration Testing <p align="center">
-![Penetration Testing Picture](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/penetration_testing.jpg)
+<p align="center">
+  <img src="https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/penetration_testing.jpg" alt="Penetration Testing">
+</p>
 
 The second sprint of the Secure Programs Capstone project, "Penetration Testing," is a comprehensive exploration into the methodologies and significance of ethical hacking to identify potential vulnerabilities within an organization's digital infrastructure. This phase is pivotal in a cybersecurity program, especially for non-profit organizations like The Knowledge House, where maintaining donor trust and safeguarding sensitive information is paramount.
 
