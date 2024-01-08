@@ -1,5 +1,7 @@
-# Sprint Two - Threat & Vulnerability Assessments
-![Threat & Assessment Picture](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/tvlogo.png)
+# <p align="center"> Sprint Two - Threat & Vulnerability Assessments <p align="center">
+<p align="center">
+  <img src="https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/tvlogo.png" alt="Penetration Testing">
+</p> 
 
 The second sprint of the Secure Programs Capstone project, called "Threat and Vulnerability Assessment," examined the crucial aspects of identifying and mitigating risks faced by non-profit organizations like The Knowledge House. This sprint was pivotal in analyzing the varying layers of cybersecurity risks, from physical vulnerabilities to network and operational security threats. It involved a comprehensive approach to understanding the nature of cybersecurity threats, the vulnerabilities within an organization's infrastructure, and the potential risks that could arise from these vulnerabilities.
 
