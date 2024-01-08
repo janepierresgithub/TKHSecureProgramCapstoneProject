@@ -1,5 +1,7 @@
 # <p align="center"> Sprint One - Cybersecurity Frameworks <p align="center">
-![Cybersecurity Frameworks Picture](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/cybersecsprint1.jpg)
+<p align="center">
+  <img src="https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/cybersecsprint1.jpg" alt="Cybersecurity Frameworks">
+</p>
 
 The first sprint of the Secure Programs Capstone project, titled "Cybersecurity Frameworks," centered on the critical role of cybersecurity frameworks in protecting digital assets. The sprint focused on understanding these frameworks as comprehensive sets of policies, procedures, and standards crucial for safeguarding sensitive data. By exploring various cybersecurity frameworks, particularly the National Institute of Standards and Technology (NIST) Cybersecurity Framework, the team developed a nuanced understanding of how these frameworks offer robust blueprints to minimize cyber threats.  
 
