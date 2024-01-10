@@ -19,7 +19,7 @@ A thorough examination of potential threats and vulnerabilities that could impac
 Going beyond theory, this sprint focused on practical, offensive security efforts. By simulating cyberattacks on organizational assets, participants gauged the efficacy of existing security measures and identified areas of improvement.
 
 # <p align="center">[Sprint IV: Legal, Regulatory & Compliance](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint4.md)<p align="center">
-Addressing the legal landscape, this sprint dealt with understanding the legal implications of cybersecurity efforts. Compliance with established regulations was prioritized. Furthermore, essential security controls were introduced to The Knowledge House's tech infrastructure to fortify it against potential cyber threats.
+Addressing the legal landscape, this sprint dealt with understanding the legal implications of cybersecurity efforts. Compliance with established regulations was prioritized. 
 
 # <p align="center">[Sprint V: Development of Policies, Procedures, and Standards](https://github.com/janepierresgithub/TKHSecureProgramCapstoneProject/blob/main/sprint5.md)<p align="center">
 Moving towards operational excellence, this sprint was geared towards the creation of robust cybersecurity policies and procedures. This framework ensured a consistent and systematic approach to handling security threats, vulnerabilities, and incidents.
